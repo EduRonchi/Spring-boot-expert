@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ab8c55-85d9-470b-9e8c-2a8f0b586701" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/Gato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/MinhaConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/VendasApplication.java" afterDir="false" />
@@ -19,7 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -45,6 +50,11 @@
     "full.screen.before.presentation.mode": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.eduronchi" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.io.github.eduronchi.VendasApplication">
     <configuration name="VendasApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.eduronchi.service.VendasApplication" />

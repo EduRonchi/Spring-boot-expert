@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ab8c55-85d9-470b-9e8c-2a8f0b586701" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/repository/ClientesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/service/ClientesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/MinhaConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eduronchi/VendasApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
     "full.screen.before.presentation.mode": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.io.github.eduronchi.VendasApplication">
     <configuration name="VendasApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.eduronchi.service.VendasApplication" />
       <module name="vendas" />
@@ -60,6 +59,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="io.github.eduronchi.VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.eduronchi.VendasApplication" />
+      <module name="vendas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.eduronchi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.io.github.eduronchi.VendasApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
